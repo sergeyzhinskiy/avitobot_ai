@@ -27,7 +27,7 @@ A bot for automating sales via Telegram and Avito using YandexGPT. Can provide p
 2. Setup
 1. Clone the repository:
 ```bash
-git clone https://github.com/your_repo/sales_bot.git
+#git clone https://github.com/your_repo/sales_bot.git
 cd sales_bot
 ```
 
@@ -124,10 +124,10 @@ Logs are saved in `sales_bot.log`:
 
 📌 Support
 For setup questions:
-- Email: support@example.com
-- Telegram: @tech_support
+- Email: sergeyzhinskiy@gmail.com
+- Telegram: @Russkayamednayakompaniya
 
-Author: Your Team
+Author: sergeyzhinskiy
 Version: 1.0.0
 =========================================================
 
@@ -160,7 +160,7 @@ Telegram-бот для продаж с интеграцией Avito и YandexGPT
 2. Настройка
 1. Склонируйте репозиторий:
    ```bash
-   git clone https://github.com/your_repo/sales_bot.git
+   #git clone https://github.com/your_repo/sales_bot.git
    cd sales_bot
    ```
 
@@ -263,10 +263,10 @@ python main.py
 
 📌 Поддержка
 По вопросам настройки:
-- Email: support@example.com
-- Telegram: @tech_support
+- Email: sergeyzhinskiy@gmail.com
+- Telegram: @Russkayamednayakompaniya
 
 
 
-Автор: Ваша Команда  
+Автор: sergeyzhinskiy 
 Версия: 1.0.0
